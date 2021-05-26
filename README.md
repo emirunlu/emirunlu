@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/drkugan?si=7d983ea9c75241df" target="_blank"><img height="30" src="https://icons.iconarchive.com/icons/froyoshark/enkel/512/Spotify-icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [emunluturk@gmail.com](mailto:emunluturk@gmail.com);
 
