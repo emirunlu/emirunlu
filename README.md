@@ -10,14 +10,7 @@
 
  - 📫 How to reach me: [emunluturk@gmail.com](mailto:emunluturk@gmail.com);
 
-<br>
-
-<hr>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emirunlu&show_icons=true&theme=gotham&count_private=true" alt="emirunlu" />
-
-
-</br>
+<img src="https://github-readme-stats.vercel.app/api?username=emirunlu&show_icons=true&theme=gotham&count_private=true" alt="emirunlu" />
 
 <div align="center">
 
