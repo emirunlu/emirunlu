@@ -8,7 +8,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [emir.unluturk@lemonrocks.com](mailto:emir.unluturk@lemonrocks.com);
+ - 📫 How to reach me: [emunluturk@gmail.com](mailto:emunluturk@gmail.com);
 
 <div align="center">
 
