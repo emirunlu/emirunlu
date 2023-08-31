@@ -10,8 +10,6 @@
 
  - 📫 How to reach me: [emir.unluturk@lemonrocks.com](mailto:emir.unluturk@lemonrocks.com);
 
-<img src="https://github-readme-stats.vercel.app/api?username=emirunlu&show_icons=true&theme=gotham&count_private=true" alt="emirunlu" />
-
 <div align="center">
 
 </div>
